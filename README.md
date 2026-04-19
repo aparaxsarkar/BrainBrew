@@ -1,7 +1,7 @@
 # BrainBrew
 
 <div align="center">
-  <img src="./frontend/src/assets/hero.png" alt="BrainBrew hero" width="100%" />
+  <img src="./IOS_APP/brain-brew-logo.png" alt="BrainBrew logo" width="280" />
 </div>
 
 <div align="center">
